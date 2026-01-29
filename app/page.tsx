@@ -1,5 +1,6 @@
 import { PrismaClient } from '@prisma/client';
 import Image from 'next/image';
+export const dynamic = 'force-dynamic';
 
 const prisma = new PrismaClient();
 
