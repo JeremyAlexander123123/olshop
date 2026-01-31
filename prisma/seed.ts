@@ -76,6 +76,42 @@ const products = [
     price: 350000,
     image: 'https://images.unsplash.com/photo-1616440347437-b1c73416efc2?w=800&q=80',
   },
+  {
+    name: 'Samsung Portable SSD T7 1TB',
+    description: 'Storage eksternal super ngebut. Transfer file project docker image bergiga-giga cuma hitungan detik. Tahan banting dan air.',
+    price: 1650000,
+    image: 'https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?w=800&q=80',
+  },
+  {
+    name: 'Logitech Brio 4K Webcam',
+    description: 'Kamera webcam resolusi tinggi buat meeting daily standup biar muka kelihatan glowing. Support Windows Hello.',
+    price: 2800000,
+    image: 'https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800&q=80',
+  },
+  {
+    name: 'Tas Ransel Anti-Maling Waterproof',
+    description: 'Tas laptop dengan resleting tersembunyi dan port USB charging. Aman bawa laptop kantor pas naik KRL.',
+    price: 450000,
+    image: 'https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&q=80',
+  },
+  {
+    name: 'Microphone Condenser USB',
+    description: 'Suara jernih seperti penyiar radio. Wajib punya buat yang sering presentasi online atau mau mulai podcast tech.',
+    price: 1200000,
+    image: 'https://images.unsplash.com/photo-1590602847861-f357a9332bbc?w=800&q=80',
+  },
+  {
+    name: 'Tablet Pro 11 inch',
+    description: 'Layar kedua portable paling sempurna. Bisa buat corat-coret diagram sistem atau nonton tutorial sambil ngoding.',
+    price: 11500000,
+    image: 'https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=800&q=80',
+  },
+  {
+    name: 'RGB Gaming Mousepad XL',
+    description: 'Alas meja luas dengan lampu RGB di pinggirannya. Meningkatkan skill coding 10% (mitosnya begitu).',
+    price: 350000,
+    image: 'https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=800&q=80',
+  },
 ]
 
 async function main() {
